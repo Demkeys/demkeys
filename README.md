@@ -1,12 +1,13 @@
 ## Welcome! 👋🏾
 
-I'm Demkeys. I love how things work. My interests:
+I'm Demkeys. My interests:
+- 📚 Study and Research
 - 💻 Coding, GameDev, Data Science & Machine Learning
 - ⚡ Microcontrollers & Robotics
 - 🎥 VTubing & Streaming
 - 🌱 Gardening
 
-Always learning. Always sharing knowledge.
+I love building things and breaking things. I love learning how things work. Always learning. Always sharing knowledge.
 
 <!--
 **Demkeys/demkeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
