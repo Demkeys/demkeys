@@ -1,4 +1,12 @@
-## Hi there 👋
+## Welcome! 👋🏾
+
+I'm Demkeys. I love how things work. My interests:
+- 💻 Coding, GameDev, Data Science & Machine Learning
+- ⚡ Microcontrollers & Robotics
+- 🎥 VTubing & Streaming
+- 🌱 Gardening
+
+Always learning. Always sharing knowledge.
 
 <!--
 **Demkeys/demkeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
